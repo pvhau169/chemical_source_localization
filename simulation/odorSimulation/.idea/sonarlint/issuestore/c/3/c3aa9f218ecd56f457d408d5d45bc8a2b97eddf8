@@ -1,0 +1,5 @@
+
+npython:S1542"QRename function "randomStart" to match the regular expression ^[a-z_][a-z0-9_]*$.(î‹ŞŞÿÿÿÿÿ
+rpython:S1542"URename function "randomDirection" to match the regular expression ^[a-z_][a-z0-9_]*$.(†°ÀÄúÿÿÿÿ
+qpython:S1542/"TRename function "expectPosition" to match the regular expression ^[a-z_][a-z0-9_]*$.(—§ğ±ÿÿÿÿÿ
+bpython:S100?"KRename method "setWind" to match the regular expression ^[a-z_][a-z0-9_]*$.(¨©Ğ

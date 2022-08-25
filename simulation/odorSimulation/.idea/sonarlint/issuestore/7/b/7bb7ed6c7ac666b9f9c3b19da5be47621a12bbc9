@@ -1,0 +1,12 @@
+
+dpython:S2208"GImport only needed names or import the module and then use its members.(ÐºÉâøÿÿÿÿ
+ypython:S101"bRename class "Aqua_env" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Ö‰Óº
+ipython:S100<"RRename method "getObservation" to match the regular expression ^[a-z_][a-z0-9_]*$.(¨Þü 
+ipython:S1542="QRename function "agentDetect" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦Êöç
+6python:S125?"Remove this commented out code.(·ÎÝí
+;python:S125O"Remove this commented out code.(Äºûÿÿÿÿ
+Ipython:S1481n"1Remove the unused local variable "distance_move".(ìªÕš
+;python:S125W"Remove this commented out code.(®¤šâùÿÿÿÿ
+ipython:S100u"MRename method "createGif" to match the regular expression ^[a-z_][a-z0-9_]*$.(Çµ–Óùÿÿÿÿ
+Upython:S1481—"7Remove the unused local variable "agent_next_position".(¯Á¢áûÿÿÿÿ
+Gpython:S1481‰".Remove the unused local variable "i_timestep".(çÉ»î

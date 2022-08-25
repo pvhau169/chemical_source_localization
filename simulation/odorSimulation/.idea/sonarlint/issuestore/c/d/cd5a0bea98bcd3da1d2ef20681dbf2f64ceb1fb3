@@ -1,0 +1,6 @@
+
+Qpython:S905":Remove or refactor this statement; it has no side effects.(‚Ž©•
+spython:S100"WRename method "createTurbulenceMap" to match the regular expression ^[a-z_][a-z0-9_]*$.(ªõá“øÿÿÿÿ
+=python:S1481,"%Remove the unused local variable "i".(Å¬•´
+npython:S1000"WRename method "getTurbulenceVector" to match the regular expression ^[a-z_][a-z0-9_]*$.(ý”›„
+6python:S1252"Remove this commented out code.(ðõÓÕ
